@@ -1,2 +1,8 @@
-# GeekApk-Flutter
-📱 GeekApk Flutter Android client
+# geekapk
+
+GeekApk Android Client
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
